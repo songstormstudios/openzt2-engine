@@ -1,3 +1,5 @@
+<img width="1477" height="1138" alt="openzt2" src="https://github.com/user-attachments/assets/415faa99-81f6-49ef-91f1-7a492cdacf70" />
+
 # OpenZT2
 
 Open source game engine reimplementation of Zoo Tycoon 2 Ultimate Collection using Panda3D.
